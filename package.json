@@ -1,0 +1,12 @@
+{
+  "name": "my-mcp-project",
+  "version": "1.0.0",
+  "description": "A project created with MCP and pushed to GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["mcp", "github"],
+  "author": "",
+  "license": "MIT"
+}
